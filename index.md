@@ -28,6 +28,6 @@
 ### Other replacement bus routes are being developed for travelling to Brooklyn.
 
 ## For more information about each neighborhood, visit:
-### https://farihaansari23.github.io/
-### https://yangtammy.github.io/CSI127/
-### https://jalengillaccount.github.io/Csci127/
+### West Village: https://farihaansari23.github.io/
+### Maspeth: https://yangtammy.github.io/CSI127/
+### Gramercy Park: https://jalengillaccount.github.io/Csci127/
