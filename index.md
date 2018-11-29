@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# L-train Closure Effects
 
-You can use the [editor on GitHub](https://github.com/HC13/HC13web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Team Members: Tammy Yang - Maspeth, Fariha Ansari - West Village, Jalen Gill - Gramercy Park
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Maspeth 
+### Not much will change because many houses did not rely on the L train at all. Even though the most efficient route in the lower west side of Maspeth included the L train, the next best alternative route took only a few minutes longer. Therefore, housing costs and quality of life will not change significantly.
 
-### Markdown
+## West Village
+### In terms of commute time from three addresses, it did not seem to increase with the closure of the L-train. Some routes were actually quicker than that of the L-train. Therefore, there won’t be a drastic increase in housing costs. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Gramercy Park 
+### Housing should not be affected that much by the closing of the L-Train. There will be alternatives created in order to supplement commuters from Gramercy Park. Because of this, location of homes do not need to change, especially in such a wealthy neighborhood. 
 
-```markdown
-Syntax highlighted code block
+# Additional Services Needed
 
-# Header 1
-## Header 2
-### Header 3
+## Maspeth
+### More buses and subways for existing routes. 
+### Recommended buses include but are not limited to: Q59, QM10, QM24, and B38. 
+### Recommended train routes: M train and W train.
 
-- Bulleted
-- List
+## West Village
+### Station on 6 Avenue had multiple trains, therefore entries and exits weren’t definitively linked to the L-train.
+### Commuters can make use of the 2, C, and 3 trains, as they provide a quick route.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HC13/HC13web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Gramercy Park
+### Replacement buses can be an alternative.
+### For service to 8th Avenue, there will be a M14 Select Bus Service.
+### Other replacement bus routes are being developed for travelling to Brooklyn.
