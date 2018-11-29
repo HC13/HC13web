@@ -26,3 +26,8 @@
 ### Replacement buses can be an alternative.
 ### For service to 8th Avenue, there will be a M14 Select Bus Service.
 ### Other replacement bus routes are being developed for travelling to Brooklyn.
+
+## For more information about each neighborhood, visit:
+### https://farihaansari23.github.io/
+### https://yangtammy.github.io/CSI127/
+### https://jalengillaccount.github.io/Csci127/
